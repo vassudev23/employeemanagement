@@ -1,0 +1,10 @@
+com\indiaNIC\employeemanagement\model\EmployeeAttendanceDetail.class
+com\indiaNIC\employeemanagement\repository\DesignationRepository.class
+com\indiaNIC\employeemanagement\service\impl\EmployeeService.class
+com\indiaNIC\employeemanagement\EmployeeManagementApplication.class
+com\indiaNIC\employeemanagement\controller\EmployeeController.class
+com\indiaNIC\employeemanagement\model\Designation.class
+com\indiaNIC\employeemanagement\repository\EmployeeRepository.class
+com\indiaNIC\employeemanagement\service\impl\EmployeeServiceImpl.class
+com\indiaNIC\employeemanagement\model\Employee.class
+com\indiaNIC\employeemanagement\repository\EmployeeAttendanceDetailRepository.class
